@@ -1,0 +1,40 @@
+.liked-icon {
+    position: absolute;
+    display: inline-block;
+    border:none;
+    top: 5px;
+    right: 8px;
+    font-size: 27px;
+    color: #8a2bfd;
+    z-index: 2;
+}
+
+.notlike {
+    display: block;
+    height: 180px;
+    width: 200px;
+    margin: 0 auto;
+}
+
+.empty h3{
+    text-align: center;
+}
+
+.empty p {
+    text-align: center;
+    font-weight: 500;
+}
+
+.backtohome {
+    height: 45px;
+    width: 200px;
+    text-align: center;
+    padding: 13px;
+    margin-left: 570px;
+    display: inline-block;
+    color: #ffffff;
+    background-color: #36a2eb;
+    border-radius: 8px;
+    font-family: "proxima-nova-soft", sans-serif;
+    font-weight: 600;
+}
